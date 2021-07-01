@@ -3,6 +3,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 // token from discord application -> bot
+// Add 'TOKEN' to 'env' variable
 const token = process.env.TOKEN;
 
 // bot events
