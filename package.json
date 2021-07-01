@@ -1,0 +1,28 @@
+{
+  "name": "simple-discord-rebot",
+  "version": "1.0.0",
+  "description": "Simple robot example for Discord",
+  "main": "robot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielleekc/simple-discord-rebot.git"
+  },
+  "keywords": [
+    "discord",
+    "rebot"
+  ],
+  "author": "Daniel Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielleekc/simple-discord-rebot/issues"
+  },
+  "homepage": "https://github.com/danielleekc/simple-discord-rebot#readme"
+}
